@@ -14,6 +14,6 @@ Kütüphaneleri yükle:
 # Derle
 ```make```
 # Çalıştır
-```./Pcontum3D``` veya ```Pcontum3D```'ye çift tıkla
+(Terminalden) ```./Pcontum3D``` yaz veya (Dosya yöneticisinden) ```Pcontum3D```'ye çift tıkla
 # Kaynak
 - https://github.com/WHKnightZ/OpenGL-Load-Model
