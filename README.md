@@ -1,8 +1,8 @@
 # Pcontum-3D
 OpenGL ile yapılmış bir program.
 # Kurulum
-```sudo apt-get update```
-```sudo apt-get install mesa-common-dev libglu1-mesa-dev freeglut3-dev```
+```sudo apt-get update
+sudo apt-get install mesa-common-dev libglu1-mesa-dev freeglut3-dev```
 # Derle
 ```make```
 # Çalıştır
