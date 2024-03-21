@@ -2,7 +2,7 @@
 
 int POS_X, POS_Y;
 
-std::string model_name = "Modeller/Car/Car.obj";
+std::string model_name = "Modeller/Earth/Earth.obj";
 
 GLfloat light_pos[] = {-10.0f, 10.0f, 100.00f, 1.0f};
 
