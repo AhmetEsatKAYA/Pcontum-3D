@@ -18,5 +18,7 @@ Uyarı: [Bu kısmı](#Kurulum "Kurulumu unutma!") atlarsanız kod çalışmaz!
 Derlemek için terminale ```make``` yazın.
 # Çalıştır
 (Terminalden) ```./Pcontum3D``` yaz veya (Dosya yöneticisinden) ```Pcontum3D```'ye çift tıkla
-# Kaynak
+### Çok önemli not: ###
+Bu kodda ```Pcontum3D``` dosyası Modeller klasöründeki dosyalara erişebilecek bir konumda olmalıdır.
+# Kaynakça
 - https://github.com/WHKnightZ/OpenGL-Load-Model
