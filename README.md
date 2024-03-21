@@ -14,7 +14,8 @@ Paketleri yükle:
 ```sudo apt-get install mesa-common-dev libglu1-mesa-dev freeglut3-dev```
 # Derle
 Uyarı: [Bu kısmı](#Kurulum "Kurulumu unutma!") atlarsanız kod çalışmaz!
-```make```
+
+Derlemek için terminale ```make``` yazın.
 # Çalıştır
 (Terminalden) ```./Pcontum3D``` yaz veya (Dosya yöneticisinden) ```Pcontum3D```'ye çift tıkla
 # Kaynak
