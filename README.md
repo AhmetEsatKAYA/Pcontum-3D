@@ -1,6 +1,6 @@
 # Pcontum-3D
 OpenGL ile yapılmış bir program.
-###Özellikler:###
+## Özellikler: ##
 - Freeglut kullanıldı
 - Mouse ile kontrol
 - Klavye ile kontrol
