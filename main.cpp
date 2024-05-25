@@ -2,7 +2,7 @@
 
 int POS_X, POS_Y;
 
-std::string model_name = "Modeller/Earth/Earth.obj";
+std::string model_name = "Modeller/Chair/Chair.obj";
 
 GLfloat light_pos[] = {-10.0f, 10.0f, 100.00f, 1.0f};
 
@@ -91,10 +91,8 @@ void mouse(int button, int state, int x, int y) {
             }
             break;
         case 4:
-            if (current_scroll < 15) {
                 current_scroll++;
                 pos_z -= zoom_per_scroll;
-            }
             break;
         }
     }
